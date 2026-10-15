@@ -1,0 +1,6 @@
+{
+  "name": "Junior Football Skills Analytics",
+  "description": "ระบบบันทึกและวิเคราะห์ผลการเรียนและพัฒนาการทักษะฟุตบอลสำหรับนักเรียนชั้นประถมศึกษา พร้อมกราฟพัฒนาการ ส่งรายงานทาง LINE, ออก PDF และเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
